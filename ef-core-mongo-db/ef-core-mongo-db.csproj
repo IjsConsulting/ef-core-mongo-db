@@ -5,5 +5,9 @@
     <RootNamespace>ef_core_mongo_db</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.4.1" />
+  </ItemGroup>
+
 
 </Project>

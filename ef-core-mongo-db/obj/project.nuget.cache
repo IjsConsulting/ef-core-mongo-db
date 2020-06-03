@@ -1,9 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "LFN9UkL1WvFpO08q2WCayY9RA8HpGbNCDcx+TF3kMqoyddTdKzf4zrkWqqvYodgsV7oGNR34UliEa3n+h7Pm8A==",
+  "dgSpecHash": "6pmnyr7mxohVbe/mf/qxosch3jNgaI2C0UYMJAyRxKcYHn1ODURSoAmGXw02sptc8A1YGdYdWtI4BpMa1Z1KtA==",
   "success": true,
   "projectFilePath": "C:\\Working\\az204\\ef-core-mongo-db\\ef-core-mongo-db\\ef-core-mongo-db.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\microsoft.openapi\\1.1.4\\microsoft.openapi.1.1.4.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore\\5.4.1\\swashbuckle.aspnetcore.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.4.1\\swashbuckle.aspnetcore.swagger.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.4.1\\swashbuckle.aspnetcore.swaggergen.5.4.1.nupkg.sha512",
+    "C:\\Users\\iansi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.4.1\\swashbuckle.aspnetcore.swaggerui.5.4.1.nupkg.sha512",
     "C:\\Users\\iansi\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
   "logs": []
