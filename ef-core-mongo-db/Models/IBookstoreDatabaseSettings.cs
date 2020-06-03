@@ -1,0 +1,9 @@
+namespace ef_core_mongo_db.Models
+{
+    public interface IBookstoreDatabaseSettings
+    {
+        string BooksCollectionName { get; set; }
+        string ConnectionString { get; set; }
+        string DatabaseName { get; set; }
+    }
+}

@@ -24,3 +24,9 @@ C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\obj\Debug\netcoreapp3.1\stati
 C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\obj\Debug\netcoreapp3.1\ef-core-mongo-db.dll
 C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\obj\Debug\netcoreapp3.1\ef-core-mongo-db.pdb
 C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\obj\Debug\netcoreapp3.1\ef-core-mongo-db.genruntimeconfig.cache
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\DnsClient.dll
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\MongoDB.Bson.dll
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\MongoDB.Driver.dll
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\MongoDB.Driver.Core.dll
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\MongoDB.Libmongocrypt.dll
+C:\Working\az204\ef-core-mongo-db\ef-core-mongo-db\bin\Debug\netcoreapp3.1\SharpCompress.dll
