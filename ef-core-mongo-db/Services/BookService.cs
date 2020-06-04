@@ -11,10 +11,9 @@ namespace ef_core_mongo_db.Services
 
         public BookService(IBookstoreDatabaseSettings settings)
         {
-            var client = new MongoClient(settings.ConnectionString);
-            var database = client.GetDatabase(settings.DatabaseName);
-
-            _books = database.GetCollection<Book>(settings.BooksCollectionName);
+            var client = new MongoClient("mongodb://localhost:27017");
+            var database = client.GetDatabase("bookstore-db");
+            _books = database.GetCollection<Book>("books");
         }
 
         public List<Book> Get() =>
